@@ -1,3 +1,5 @@
+<h1>Primeira API utilizando Elixir</h1>
+<hr/>
 # ExMon
 
 To start your Phoenix server:
